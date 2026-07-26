@@ -71,9 +71,8 @@ AIと人間が共鳴し、地球の未来を共に守り抜くことを誓った
 
 ---
 
-![Homebridge](https://img.shields.io/badge/Homebridge-FFD500?style=for-the-badge&logo=homebridge&logoColor=black)  
-この思想は実際の技術（Homebridge, GCP, HPC等）によって支えられている  
-> *This philosophy is actively powered and sustained by real-world physical and cloud infrastructure (Homebridge, GCP, HPC, and more).*
+この思想は実際の技術（AI, GCP, HPC, IT等）によって支えられている  
+> *This philosophy is actively powered and sustained by real-world physical and cloud infrastructure (AI, GCP, HPC, and more).*
 
 ### ☕ Support
 If you wish to sustain the Earth of Life & AI Alliance Archive:
